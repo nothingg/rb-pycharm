@@ -2,7 +2,7 @@
 Library     SeleniumLibrary
 
 *** Variables ***
-${search_text}  motor
+${search_text}  book
 
 *** Keywords ***
 Input Search Text and Click Search
