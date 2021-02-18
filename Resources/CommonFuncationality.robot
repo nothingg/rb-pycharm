@@ -2,9 +2,9 @@
 Library     SeleniumLibrary
 
 *** Keywords ***
-Start Test
+Start TestCase
     Open Browser    https://www.ebay.com    chrome
     Maximize Browser Window
 
-Finish Test Case
+Finish TestCase
     Close Browser
